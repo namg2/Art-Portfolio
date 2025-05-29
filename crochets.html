@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Crochets</title>
+  <link href="https://fonts.googleapis.com/css2?family=Delius&family=Quicksand:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: 'Quicksand', sans-serif;
+      background: #fff7f9;
+      color: #5a4250;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+    header {
+      background: linear-gradient(to bottom, #ffe6f0, #fff7f9);
+      padding: 3rem 1rem 1rem;
+      text-align: center;
+      border-bottom: 1px dashed #ecb6cd;
+    }
+    header h1 {
+      font-family: 'Delius', cursive;
+      font-size: 3rem;
+      color: #d96e99;
+      margin: 0;
+    }
+    nav {
+      text-align: center;
+      margin: 2rem 0;
+    }
+    nav a {
+      margin: 0 0.5rem;
+      text-decoration: none;
+      color: #bf5d8c;
+      font-size: 1rem;
+      background: #ffe6f0;
+      padding: 0.5rem 0.8rem;
+      border-radius: 18px;
+      border: 1px dashed #f4b2c8;
+      transition: all 0.3s ease;
+    }
+    nav a:hover {
+      background: #fddbe7;
+      color: #8d4c6f;
+    }
+
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1rem;
+      padding: 2rem;
+      max-width: 1000px;
+      margin: auto;
+      transition: all 0.3s ease;
+    }
+
+    .art-piece {
+      cursor: pointer;
+      text-align: center;
+    }
+
+    .art-piece img {
+      width: 100%;
+      max-height: 600px;
+      object-fit: contain;
+      border-radius: 8px;
+      display: block;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .art-piece:hover img {
+      transform: scale(1.01);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
+    }
+
+    footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: #b07a94;
+      border-top: 1px dashed #ecb6cd;
+      padding: 1rem;
+      margin-top: auto;
+    }
+
+    /* Lightbox */
+    .lightbox {
+      display: none;
+      position: fixed;
+      z-index: 1000;
+      top: 0; left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.9);
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      padding: 2rem;
+    }
+
+    .lightbox-content {
+      position: relative;
+      max-width: 90%;
+      max-height: 90%;
+      text-align: center;
+      color: #fce4ec;
+    }
+
+    .lightbox-content img {
+      max-width: 100%;
+      max-height: 70vh;
+      border-radius: 8px;
+      display: block;
+      margin: auto;
+    }
+
+    .lightbox-title {
+      font-size: 1.3rem;
+      font-weight: 600;
+      margin-top: 1rem;
+      color: #ffd4e4;
+    }
+
+    .lightbox-description {
+      margin-top: 0.5rem;
+      font-size: 1.1rem;
+      white-space: pre-wrap;
+    }
+
+    .close-btn {
+      position: absolute;
+      top: -15px;
+      right: -10px;
+      font-size: 2rem;
+      background: none;
+      border: none;
+      color: white;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Crochets</h1>
+  </header>
+
+  <nav>
+    <a href="index.html">home</a>
+    <a href="gallery.html">gallery</a>
+    <a href="movies.html">movies</a>
+    <a href="books.html">books</a>
+    <a href="crochets.html">crochets</a>
+    <a href="contact.html">contact</a>
+  </nav>
+
+  <div class="gallery" id="galleryContainer"></div>
+
+  <div class="lightbox" id="lightbox" onclick="closeLightbox()">
+    <div class="lightbox-content" onclick="event.stopPropagation()">
+      <button class="close-btn" onclick="closeLightbox()">×</button>
+      <img id="lightboxImg" src="" alt="">
+      <div class="lightbox-title" id="lightboxTitle"></div>
+      <div class="lightbox-description" id="lightboxDesc"></div>
+    </div>
+  </div>
+
+  <footer>
+    <p>@nicolemartinez 2025</p>
+  </footer>
+
+  <script>
+    const container = document.getElementById('galleryContainer');
+    const lightbox = document.getElementById('lightbox');
+    const lightboxImg = document.getElementById('lightboxImg');
+    const lightboxTitle = document.getElementById('lightboxTitle');
+    const lightboxDesc = document.getElementById('lightboxDesc');
+    let zoomLevel = window.devicePixelRatio;
+
+    fetch('crochet.json')
+      .then(res => res.json())
+      .then(data => {
+        data.forEach(item => {
+          const piece = document.createElement('div');
+          piece.className = 'art-piece';
+          piece.innerHTML = `<img src="${item.image}" alt="${item.title || ''}">`;
+          piece.addEventListener('click', () =>
+            openLightbox(item.image, item.title || '', item.description || '')
+          );
+          container.appendChild(piece);
+        });
+      });
+
+    function openLightbox(image, title, description) {
+      lightboxImg.src = image;
+      lightboxTitle.textContent = title;
+      lightboxDesc.textContent = description;
+      lightbox.style.display = 'flex';
+    }
+
+    function closeLightbox() {
+      lightbox.style.display = 'none';
+      lightboxImg.src = '';
+      lightboxTitle.textContent = '';
+      lightboxDesc.textContent = '';
+    }
+
+    // Auto-resize on zoom
+    window.addEventListener('resize', () => {
+      const newZoom = window.devicePixelRatio;
+      const gallery = document.querySelector('.gallery');
+      if (newZoom !== zoomLevel) {
+        gallery.style.gridTemplateColumns =
+          newZoom > 1.5
+            ? 'repeat(auto-fit, minmax(200px, 1fr))'
+            : newZoom > 1.1
+            ? 'repeat(auto-fit, minmax(240px, 1fr))'
+            : 'repeat(auto-fit, minmax(280px, 1fr))';
+        zoomLevel = newZoom;
+      }
+    });
+  </script>
+</body>
+</html>

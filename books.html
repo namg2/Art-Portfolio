@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Books I've Read</title>
+  <link href="https://fonts.googleapis.com/css2?family=Delius&family=Quicksand:wght@400;600&display=swap" rel="stylesheet"/>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      font-family: 'Quicksand', sans-serif;
+      background: #fff7f9;
+      color: #5a4250;
+    }
+    header {
+      background: linear-gradient(to bottom, #ffe6f0, #fff7f9);
+      padding: 3rem 1rem 1rem;
+      text-align: center;
+      border-bottom: 1px dashed #ecb6cd;
+    }
+    header h1 {
+      font-family: 'Delius', cursive;
+      font-size: 3rem;
+      color: #d96e99;
+      margin: 0;
+    }
+    header p {
+      font-size: 1rem;
+      color: #a47a8d;
+      margin-top: 0.5rem;
+    }
+    nav {
+      text-align: center;
+      margin: 2rem 0;
+    }
+    nav a {
+      margin: 0 0.5rem;
+      text-decoration: none;
+      color: #bf5d8c;
+      font-size: 1rem;
+      background: #ffe6f0;
+      padding: 0.5rem 0.8rem;
+      border-radius: 18px;
+      border: 1px dashed #f4b2c8;
+      transition: all 0.3s ease;
+    }
+    nav a:hover {
+      background: #fddbe7;
+      color: #8d4c6f;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    }
+
+    .content {
+      flex: 1;
+      max-width: 750px;
+      margin: 0 auto;
+      padding: 1rem 2rem 4rem;
+    }
+
+    .content h2 {
+      font-size: 1.8rem;
+      font-family: 'Delius', cursive;
+      text-align: center;
+      color: #d96e99;
+      margin-bottom: 0.2rem;
+    }
+
+    .content .count {
+      text-align: center;
+      font-size: 0.9rem;
+      color: #a47a8d;
+      margin-bottom: 2rem;
+    }
+
+    .book {
+      display: flex;
+      gap: 1rem;
+      align-items: flex-start;
+      margin-bottom: 2rem;
+      border-bottom: 1px dashed #f4b2c8;
+      padding-bottom: 1.5rem;
+    }
+
+    .book img {
+      width: 80px;
+      border-radius: 4px;
+      box-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+    }
+
+    .book-info {
+      flex: 1;
+    }
+
+    .book-info h3 {
+      margin: 0;
+      font-size: 1.2rem;
+      color: #5a4250;
+    }
+
+    .book-info .author {
+      font-style: italic;
+      font-size: 0.95rem;
+      color: #a47a8d;
+    }
+
+    .book-info .meta {
+      font-size: 0.85rem;
+      color: #b07a94;
+      margin: 0.3rem 0 0.8rem;
+    }
+
+    .book-info p {
+      margin: 0;
+      font-size: 0.95rem;
+      color: #5f3a4b;
+    }
+
+    footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: #b07a94;
+      border-top: 1px dashed #ecb6cd;
+      padding: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Books I've Read</h1>
+    <p class="count">Loading...</p>
+  </header>
+
+  <nav>
+    <a href="index.html">home</a>
+    <a href="gallery.html">gallery</a>
+    <a href="movies.html">movies</a>
+    <a href="books.html">books</a>
+    <a href="crochets.html">crochets</a>
+    <a href="contact.html">contact</a>
+  </nav>
+
+  <div class="content" id="bookList">
+    <!-- Books will load here -->
+  </div>
+
+  <footer>
+    <p>@nicolemartinez 2025</p>
+  </footer>
+
+  <script>
+    fetch('books.json')
+      .then(response => response.json())
+      .then(books => {
+        const list = document.getElementById('bookList');
+        const count = document.querySelector('.count');
+        count.textContent = `Total: ${books.length} ${books.length === 1 ? 'book' : 'books'}`;
+
+        books.forEach(book => {
+          const bookEl = document.createElement('div');
+          bookEl.className = 'book';
+
+          bookEl.innerHTML = `
+            <img src="${book.image}" alt="${book.title} cover">
+            <div class="book-info">
+              <h3>${book.title}</h3>
+              <div class="author">by ${book.author}</div>
+              <div class="meta">
+                ${book.genre || 'Genre unknown'}${book.pages ? ` • ${book.pages} pages` : ''}${book.release_date ? ` • Released ${book.release_date}` : ''}
+              </div>
+              <p>${book.description}</p>
+            </div>
+          `;
+
+          list.appendChild(bookEl);
+        });
+      })
+      .catch(error => {
+        console.error('Error loading books:', error);
+        document.querySelector('.count').textContent = 'Could not load books.';
+      });
+  </script>
+</body>
+</html>

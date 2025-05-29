@@ -1,0 +1,113 @@
+[
+    {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "description": "A political allegory in the form of a fable, depicting a group of farm animals who overthrow their human farmer, only to face a new tyranny among themselves.",
+        "rating": null,
+        "image": "https://i5.walmartimages.com/seo/Animal-Farm-Paperback-9780452277502_79ec0bd9-4356-46b0-9728-ff6590dcb6c4.4a87d384cefc4b0d524825bb467de195.jpeg",
+        "release_date": "August 17, 1945",
+        "read_date": "",
+        "genre": "Political Satire / Allegory",
+        "pages": 112
+      },
+      {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "description": "A coming-of-age novel following Holden Caulfield, a disillusioned teenager navigating the adult world with cynicism and emotional struggle.",
+        "rating": "★★★☆☆",
+        "image": "https://m.media-amazon.com/images/I/81OthjkJBuL.jpg",
+        "release_date": "July 16, 1951",
+        "read_date": "",
+        "genre": "Fiction / Coming-of-Age",
+        "pages": 234
+      },
+      {
+        "title": "Lolita",
+        "author": "Vladimir Nabokov",
+        "description": "A controversial and haunting novel told from the perspective of Humbert Humbert, exploring obsession, manipulation, and morality.",
+        "rating": "★★★★☆",
+        "image": "https://prodimage.images-bn.com/pimages/9780679723165_p0_v5_s600x595.jpg",
+        "release_date": "September 15, 1955",
+        "read_date": "",
+        "genre": "Psychological Fiction",
+        "pages": 336
+      },
+      {
+        "title": "It Ends With Us",
+        "author": "Colleen Hoover",
+        "description": "A poignant romance about love, strength, and making difficult choices, as Lily Bloom navigates a complicated relationship with her past and present.",
+        "rating": "★★★☆☆",
+        "image": "https://m.media-amazon.com/images/I/81s0B6NYXML.jpg",
+        "release_date": "August 2, 2016",
+        "read_date": "",
+        "genre": "Romance / Contemporary",
+        "pages": 384
+      },
+      {
+        "title": "November 9",
+        "author": "Colleen Hoover",
+        "description": "A romantic drama about two people who meet on the same date every year and must decide if their annual encounters are enough to sustain love.",
+        "rating": "★★★☆☆",
+        "image": "https://m.media-amazon.com/images/I/819GdrzJz8L.jpg",
+        "release_date": "November 10, 2015",
+        "read_date": "",
+        "genre": "Romance / Drama",
+        "pages": 320
+      },
+      {
+        "title": "Hopeless",
+        "author": "Colleen Hoover",
+        "description": "A deeply emotional story of secrets, trauma, and unexpected love, centered around Sky and the mysterious Holder.",
+        "rating": "★★★★☆",
+        "image": "https://m.media-amazon.com/images/I/61kQtj+bGdL._UF1000,1000_QL80_.jpg",
+        "release_date": "December 17, 2012",
+        "read_date": "",
+        "genre": "Romance / New Adult",
+        "pages": 410
+      },
+      {
+        "title": "Losing Hope",
+        "author": "Colleen Hoover",
+        "description": "A companion to Hopeless told from Holder’s perspective, revealing his side of the story and the emotional depth behind his choices.",
+        "rating": "★★★☆☆",
+        "image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1368348507i/17340050.jpg",
+        "release_date": "July 8, 2013",
+        "read_date": "",
+        "genre": "Romance / New Adult",
+        "pages": 336
+      },
+      {
+        "title": "All Your Perfects",
+        "author": "Colleen Hoover",
+        "description": "A raw and emotional exploration of a marriage on the brink, revealing how love and regret coexist through time.",
+        "rating": "★★★★☆",
+        "image": "https://m.media-amazon.com/images/I/81XzdE9EV0L.jpg",
+        "release_date": "July 17, 2018",
+        "read_date": "",
+        "genre": "Romance / Domestic Fiction",
+        "pages": 320
+      },
+      {
+        "title": "Romeo and Juliet",
+        "author": "William Shakespeare",
+        "description": "A tragic play about two young star-crossed lovers whose deaths ultimately reconcile their feuding families.",
+        "rating": null,
+        "image": "https://prodimage.images-bn.com/pimages/9781451621709_p0_v6_s1200x630.jpg",
+        "release_date": "1597",
+        "read_date": "",
+        "genre": "Tragedy / Drama",
+        "pages": 126
+      },
+      {
+        "title": "Wonder",
+        "author": "R.J. Palacio",
+        "description": "A heartwarming story of August Pullman, a boy with facial differences who navigates public school for the first time, teaching others about kindness, empathy, and acceptance.",
+        "rating": null,
+        "image": "https://m.media-amazon.com/images/I/71Q1KDTHXLL.jpg",
+        "release_date": "February 14, 2012",
+        "read_date": "",
+        "genre": "Contemporary / Middle Grade",
+        "pages": 320
+      }
+      
+]
