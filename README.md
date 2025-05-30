@@ -1,2 +1,2 @@
 # Art-Portfolio
-Want to make a custom website for my art!
+Decided to make a niave website for my art portfolio
