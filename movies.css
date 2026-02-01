@@ -1,0 +1,125 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Quicksand', sans-serif;
+  background: #fff7f9;
+  color: #5a4250;
+}
+
+header {
+  background: linear-gradient(to bottom, #ffe6f0, #fff7f9);
+  padding: 3rem 1rem 2rem;
+  text-align: center;
+  border-bottom: 1px dashed #ecb6cd;
+}
+
+header h1 {
+  font-family: 'Delius', cursive;
+  font-size: 3rem;
+  color: #d96e99;
+  margin: 0;
+}
+
+header p {
+  color: #a88b99;
+  font-size: 0.95rem;
+  margin-top: 0.5rem;
+}
+
+nav {
+  text-align: center;
+  margin: 2rem 0 3rem;
+}
+
+nav a {
+  margin: 0 0.8rem;
+  text-decoration: none;
+  color: #bf5d8c;
+  font-size: 1rem;
+  background: #ffe6f0;
+  padding: 0.5rem 0.8rem;
+  border-radius: 18px;
+  border: 1px dashed #f4b2c8;
+  transition: all 0.3s ease;
+}
+
+nav a:hover {
+  background: #fddbe7;
+  color: #8d4c6f;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+.year-divider {
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: #b2557a;
+  margin-top: 3rem;
+}
+
+.year-divider small {
+  display: block;
+  font-weight: normal;
+  color: #a88b99;
+  font-size: 0.9rem;
+  margin-top: 0.4rem;
+}
+
+.movie-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 2rem;
+  gap: 2rem;
+}
+
+.movie-card {
+  background: #ffeaf1;
+  border: 1px dashed #f4b2c8;
+  border-radius: 12px;
+  width: 250px;
+  padding: 1rem;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.05);
+  text-align: center;
+}
+
+.movie-card img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.movie-card h3 {
+  color: #b2557a;
+  font-size: 1.2rem;
+  margin: 0.8rem 0 0.4rem;
+}
+
+.movie-card p {
+  font-size: 0.9rem;
+  margin: 0.2rem 0;
+  color: #6f5060;
+}
+
+.description {
+  margin-top: 0.5rem;
+}
+
+.movie-note {
+  margin-top: 0.6rem;
+  padding-top: 0.5rem;
+  border-top: 1px dashed #f4b2c8;
+  font-style: italic;
+  color: #8d4c6f;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.8rem;
+  color: #b07a94;
+  border-top: 1px dashed #ecb6cd;
+}
