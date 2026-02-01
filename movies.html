@@ -1,116 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Watched Movies</title>
+
   <link href="https://fonts.googleapis.com/css2?family=Delius&family=Quicksand:wght@400;600&display=swap" rel="stylesheet">
-  <style>
-    * {
-      box-sizing: border-box;
-    }
-    body {
-      margin: 0;
-      font-family: 'Quicksand', sans-serif;
-      background: #fff7f9;
-      color: #5a4250;
-    }
-    header {
-  background: linear-gradient(to bottom, #ffe6f0, #fff7f9);
-  padding: 3rem 1rem 2rem; /* ⬅ Increased bottom padding */
-  text-align: center;
-  border-bottom: 1px dashed #ecb6cd;
-}
-
-nav {
-  text-align: center;
-  margin: 2rem 0 3rem; /* ⬅ Increased bottom margin */
-}
-
-    header h1 {
-      font-family: 'Delius', cursive;
-      font-size: 3rem;
-      color: #d96e99;
-      margin: 0;
-      letter-spacing: 1px;
-    }
-    header p {
-      color: #a88b99;
-      font-size: 0.95rem;
-      margin-top: 0.5rem;
-    }
-    nav a {
-      margin: 0 0.8rem;
-      text-decoration: none;
-      color: #bf5d8c;
-      font-size: 1rem;
-      background: #ffe6f0;
-      padding: 0.5rem 0.8rem;
-      border-radius: 18px;
-      border: 1px dashed #f4b2c8;
-      transition: all 0.3s ease;
-    }
-    nav a:hover {
-      background: #fddbe7;
-      color: #8d4c6f;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
-    }
-    .year-divider {
-      width: 100%;
-      text-align: center;
-      font-weight: bold;
-      font-size: 1.2rem;
-      color: #b2557a;
-      margin-top: 3rem;
-      position: relative;
-    }
-    .year-divider small {
-      display: block;
-      font-weight: normal;
-      color: #a88b99;
-      font-size: 0.9rem;
-      margin-top: 0.4rem;
-    }
-    .movie-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      padding: 2rem;
-      gap: 2rem;
-    }
-    .movie-card {
-      background: #ffeaf1;
-      border: 1px dashed #f4b2c8;
-      border-radius: 12px;
-      width: 250px;
-      padding: 1rem;
-      box-shadow: 0 3px 6px rgba(0,0,0,0.05);
-      text-align: center;
-    }
-    .movie-card img {
-      width: 100%;
-      height: auto;
-      border-radius: 8px;
-    }
-    .movie-card h3 {
-      color: #b2557a;
-      font-size: 1.2rem;
-      margin: 0.8rem 0 0.4rem;
-    }
-    .movie-card p {
-      font-size: 0.9rem;
-      margin: 0.2rem 0;
-      color: #6f5060;
-    }
-    footer {
-      text-align: center;
-      padding: 1rem;
-      font-size: 0.8rem;
-      color: #b07a94;
-      border-top: 1px dashed #ecb6cd;
-    }
-  </style>
+  <link rel="stylesheet" href="movies.css">
 </head>
+
 <body>
   <header>
     <h1>Movie List</h1>
@@ -134,7 +32,7 @@ nav {
 
   <script>
     fetch('movies.json')
-      .then(response => response.json())
+      .then(res => res.json())
       .then(data => {
         const root = document.getElementById('movie-root');
         const totalText = document.getElementById('total-movies');
@@ -148,33 +46,42 @@ nav {
           grouped[year].push(movie);
         });
 
-        Object.keys(grouped).sort((a, b) => b - a).forEach(year => {
-          const section = document.createElement('section');
-          const count = grouped[year].length;
-          section.innerHTML = `<div class="year-divider">Watched in ${year}<small>♡ ${count} movies</small></div>`;
-
-          const container = document.createElement('div');
-          container.className = 'movie-container';
-
-          grouped[year].forEach((movie, index) => {
-            const card = document.createElement('div');
-            card.className = 'movie-card';
-
-            card.innerHTML = `
-              <img src="${movie.image || 'https://via.placeholder.com/250x370?text=No+Image'}" alt="${movie.title}">
-              <h3>${index + 1}. ${movie.title}</h3>
-              <p><strong>Watched:</strong> ${movie.year_watched || '—'}</p>
-              <p><strong>Released:</strong> ${movie.release_date || '—'}</p>
-              <p><strong>Rating:</strong> ${movie.rating !== null ? movie.rating + '/10' : '—'}</p>
-              <p>${movie.description || ''}</p>
+        Object.keys(grouped)
+          .sort((a, b) => b - a)
+          .forEach(year => {
+            const section = document.createElement('section');
+            section.innerHTML = `
+              <div class="year-divider">
+                Watched in ${year}
+                <small>♡ ${grouped[year].length} movies</small>
+              </div>
             `;
 
-            container.appendChild(card);
-          });
+            const container = document.createElement('div');
+            container.className = 'movie-container';
 
-          section.appendChild(container);
-          root.appendChild(section);
-        });
+            grouped[year].forEach((movie, index) => {
+              const card = document.createElement('div');
+              card.className = 'movie-card';
+
+              card.innerHTML = `
+                <img src="${movie.image || 'https://via.placeholder.com/250x370?text=No+Image'}" alt="${movie.title}">
+                <h3>${index + 1}. ${movie.title}</h3>
+
+                <p><strong>Watched:</strong> ${movie.year_watched || '—'}</p>
+                <p><strong>Released:</strong> ${movie.release_date || '—'}</p>
+                <p><strong>Rating:</strong> ${movie.rating !== null ? movie.rating + '/10' : '—'}</p>
+
+                ${movie.description ? `<p class="description">${movie.description}</p>` : ''}
+                ${movie.note ? `<p class="movie-note"><strong>Note:</strong> ${movie.note}</p>` : ''}
+              `;
+
+              container.appendChild(card);
+            });
+
+            section.appendChild(container);
+            root.appendChild(section);
+          });
       })
       .catch(err => console.error('Error loading movies:', err));
   </script>
