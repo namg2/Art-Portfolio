@@ -5,39 +5,44 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/otptPbEY0vBostmo95xwiiumMJm.jpg",
     "release_date": "October 22, 2003",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Animal Farm",
     "description": "Animals on a farm lead a revolution against the farmers to put their destiny in their own hands. However this revolution eats their own children and they cannot avoid corruption.",
     "rating": null,
-    "image": "http://image.tmdb.org/t/p/original/lhLp9a0jBIPLMAdUFNlYjCuS72Q.jpg",
+    "image": "http://image.tmdb.org/t/p/original/8SKtZe7LMrwoYe3AXbNlGwmd9U8.jpg",
     "release_date": "December 27, 1954",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "The Nun II",
     "description": "In 1956 France, a priest is violently murdered, and Sister Irene begins to investigate. She once again comes face-to-face with a powerful evil.",
     "rating": null,
-    "image": "http://image.tmdb.org/t/p/original/nt5U1MgFcyxCYA6cssNKtnn2FsF.jpg",
+    "image": "http://image.tmdb.org/t/p/original/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg",
     "release_date": "September 5, 2023",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "American Psycho",
     "description": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
-    "release_date": "April 12, 2000",
-    "year_watched": 2023
+    "release_date": "January 20, 2000",
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Forrest Gump",
     "description": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
     "rating": null,
-    "image": "http://image.tmdb.org/t/p/original/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+    "image": "http://image.tmdb.org/t/p/original/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
     "release_date": "June 22, 1994",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Missing",
@@ -45,23 +50,26 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/wEOUYSU5Uf8J7152PT6jdb5233Y.jpg",
     "release_date": "January 18, 2023",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
-    "title": "The Boy in the Striped Pyjamas",
+    "title": "The Boy in the Striped Pajamas",
     "description": "When his family moves from their home in Berlin to a strange new house in Poland, young Bruno befriends Shmuel, a boy who lives on the other side of the fence where everyone seems to be wearing striped pajamas. Unaware of Shmuel's fate as a Jewish prisoner or the role his own Nazi father plays in his imprisonment, Bruno embarks on a dangerous journey inside the camp's walls.",
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/sLwYSEVVV3r047cjrpRAbGgNsfL.jpg",
     "release_date": "May 6, 2008",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "A Clockwork Orange",
     "description": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
-    "release_date": "December 18, 1971",
-    "year_watched": 2023
+    "release_date": "October 27, 1971",
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "One Flew Over the Cuckoo's Nest",
@@ -69,7 +77,8 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
     "release_date": "November 18, 1975",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "The Lovely Bones",
@@ -77,31 +86,35 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/sn0iDphRxQ7I6aLd9igIgACITak.jpg",
     "release_date": "December 25, 2009",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "The Nun",
-    "description": "A priest with a haunted past and a novice on the threshold of her final vows are sent by the Vatican to investigate the death of a young nun in Romania and confront a malevolent force in the form of a demonic nun.",
+    "description": "A priest with a dark past and a novice nearing her final vows are sent by the Vatican to Romania to investigate a nun's death and face a demonic force.",
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg",
     "release_date": "September 4, 2018",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Believe Me: The Abduction of Lisa McVey",
-    "description": "On the night she plans on taking her own life, 17-year-old 'Lisa McVey' is kidnapped and finds herself fighting to stay alive and manages to be a victim of rape. She manages to talk her attacker into releasing her, but when she returns home, no one believes her story except for one detective, who suspects she was abducted by a serial killer. Based on horrifying true events.",
+    "description": "On the night she plans on taking her own life, 17-year-old 'Lisa McVey' is kidnapped and finds herself fighting to stay alive and is raped. She manages to talk her attacker into releasing her, but when she returns home, no one believes her story except for one detective, who suspects she was abducted by a serial killer. Based on horrifying true events.",
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/qbJEzCzEKDHPZDiRvSSBiYEKaAH.jpg",
     "release_date": "September 29, 2018",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Hacksaw Ridge",
     "description": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
     "rating": null,
-    "image": "http://image.tmdb.org/t/p/original/jhWbYeUNOA5zAb6ufK6pXQFXqTX.jpg",
+    "image": "http://image.tmdb.org/t/p/original/wuz8TjCIWR2EVVMuEfBnQ1vuGS3.jpg",
     "release_date": "October 6, 2016",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "The Social Network",
@@ -109,15 +122,17 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
     "release_date": "September 30, 2010",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Come and See",
-    "description": "The invasion of a village in Byelorussia by German forces sends young Florya into the forest to join the weary Resistance fighters, against his family's wishes. There he meets a girl, Glasha, who accompanies him back to his village. On returning home, Florya finds his family and fellow peasants massacred. His continued survival amidst the brutal debris of war becomes increasingly nightmarish, a battle between despair and hope.",
+    "description": "The invasion of a village in Belarus by German forces sends young Florya into the forest to join the weary Resistance fighters, against his family's wishes. There he meets a girl, Glasha, who accompanies him back to his village. On returning home, Florya finds his family and fellow peasants massacred. His continued survival amidst the brutal debris of war becomes increasingly nightmarish, a battle between despair and hope.",
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/qNbMsKVzigERgJUbwf8pKyZogpb.jpg",
     "release_date": "October 16, 1985",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "M3GAN",
@@ -125,15 +140,17 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
     "release_date": "December 27, 2022",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
-    "title": "One Piece Film Red",
-    "description": "Uta — the most beloved singer in the world. Her voice, which she sings with while concealing her true identity, has been described as “otherworldly.” She will appear in public for the first time at a live concert. As the venue fills with all kinds of Uta fans — excited pirates, the Navy watching closely, and the Straw Hats led by Luffy who simply came to enjoy her sonorous performance — the voice that the whole world has been waiting for is about to resound.",
+    "title": "One Piece Film: Red",
+    "description": "A new adventure begins for Luffy and his crew when mysterious pop superstar Uta unveils her identity — and launches a misguided plan for world peace.",
     "rating": null,
-    "image": "http://image.tmdb.org/t/p/original/ogDXuVkO92GcETZfSofXXemw7gb.jpg",
+    "image": "http://image.tmdb.org/t/p/original/m80kPdrmmtEh9wlLroCp0bwUGH0.jpg",
     "release_date": "August 5, 2022",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "The Super Mario Bros. Movie",
@@ -141,7 +158,8 @@
     "rating": 2,
     "image": "http://image.tmdb.org/t/p/original/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
     "release_date": "April 4, 2023",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "12 Angry Men",
@@ -149,7 +167,8 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
     "release_date": "April 9, 1957",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Legally Blonde",
@@ -157,7 +176,8 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/9ohlMrJHQqKhfUKh7Zr3JQqHNLZ.jpg",
     "release_date": "July 12, 2001",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "To Kill a Mockingbird",
@@ -165,7 +185,8 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/gZycFUMLx2110dzK3nBNai7gfpM.jpg",
     "release_date": "December 19, 1962",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Jujutsu Kaisen 0",
@@ -173,7 +194,8 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/23oJaeBh0FDk2mQ2P240PU9Xxfh.jpg",
     "release_date": "December 23, 2021",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Interstellar",
@@ -181,7 +203,8 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
     "release_date": "November 4, 2014",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Searching",
@@ -189,7 +212,8 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/yuAPCsCGJGSxA7YOW4elF5JNrzK.jpg",
     "release_date": "August 23, 2018",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "The Girl Who Escaped: The Kara Robinson Story",
@@ -197,31 +221,35 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/o9hwOE1FeOelkNxfsGtTNrlWnyq.jpg",
     "release_date": "February 10, 2023",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Death of a Salesman",
-    "description": "Willy Loman is an aging salesman who was recently fired from his job. Dealing with feelings of failure, Willy begins to relive events from the past that involve his older son, Biff, and his wife, Linda. Willy tries to learn from past mistakes and works to make amends with his family, but his biggest struggle is to make peace with himself over a failed dream of financial success.",
+    "description": "Willy Loman, an aging, failing salesman, struggles to accept reality and his failure to achieve the American Dream.",
     "rating": null,
-    "image": "http://image.tmdb.org/t/p/original/xnyRkG1LMQX0NUpROq61GiKW7eJ.jpg",
-    "release_date": "December 19, 1951",
-    "year_watched": 2023
+    "image": "http://image.tmdb.org/t/p/original/tIRmjfaLmVHjGFaIcNGD3hggvbO.jpg",
+    "release_date": "August 15, 1985",
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Cruella",
     "description": "In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella’s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.",
     "rating": null,
-    "image": "http://image.tmdb.org/t/p/original/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg",
+    "image": "http://image.tmdb.org/t/p/original/hjS9mH8KvRiGHgjk6VUZH7OT0Ng.jpg",
     "release_date": "May 25, 2021",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Léon: The Professional",
     "description": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps.",
     "rating": null,
-    "image": "http://image.tmdb.org/t/p/original/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg",
+    "image": "http://image.tmdb.org/t/p/original/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg",
     "release_date": "September 13, 1994",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "The Godfather",
@@ -229,23 +257,26 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
     "release_date": "March 13, 1972",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Spider-Man",
     "description": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
     "rating": null,
-    "image": "http://image.tmdb.org/t/p/original/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
+    "image": "http://image.tmdb.org/t/p/original/kjdJntyBeEvqm9w97QGBdxPptzj.jpg",
     "release_date": "April 30, 2002",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Spider-Man 2",
     "description": "Peter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still can't act on his feelings for Mary Jane Watson, a girl he's loved since childhood. A certain anger begins to brew in his best friend Harry Osborn as well...",
     "rating": null,
-    "image": "http://image.tmdb.org/t/p/original/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg",
+    "image": "http://image.tmdb.org/t/p/original/eg8XHjA7jkM3ulBLnfGTczR9ytI.jpg",
     "release_date": "June 24, 2004",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Spider-Man 3",
@@ -253,7 +284,8 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
     "release_date": "April 30, 2007",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "The Amazing Spider-Man",
@@ -261,7 +293,8 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg",
     "release_date": "June 22, 2012",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "The Amazing Spider-Man 2",
@@ -269,7 +302,8 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/dGjoPttcbKR5VWg1jQuNFB247KL.jpg",
     "release_date": "April 15, 2014",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Spider-Man: Into the Spider-Verse",
@@ -277,7 +311,8 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
     "release_date": "December 5, 2018",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Selena",
@@ -285,15 +320,17 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/j8xX3yBAFOayfSaImgLZPnAcdWz.jpg",
     "release_date": "March 20, 1997",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "The Shining",
     "description": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
     "rating": null,
-    "image": "http://image.tmdb.org/t/p/original/xazWoLealQwEgqZ89MLZklLZD3k.jpg",
+    "image": "http://image.tmdb.org/t/p/original/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
     "release_date": "May 22, 1980",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Superhero Movie",
@@ -301,7 +338,8 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/4MtvQdh5VP7jMSydhggp1P80FMj.jpg",
     "release_date": "March 27, 2008",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Girl in the Basement",
@@ -309,23 +347,26 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/tPP9n6r5QrIKPnshnJqE7klptj2.jpg",
     "release_date": "February 26, 2021",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "The Karate Kid",
-    "description": "Twelve-year-old Dre Parker could have been the most popular kid in Detroit, but his mother's latest career move has landed him in China. Dre immediately falls for his classmate Mei Ying but the cultural differences make such a friendship impossible. Even worse, Dre's feelings make him an enemy of the class bully, Cheng. With no friends in a strange land, Dre has nowhere to turn but maintenance man Mr. Han, who is a kung fu master. As Han teaches Dre that kung fu is not about punches and parries, but maturity and calm, Dre realizes that facing down the bullies will be the fight of his life.",
+    "description": "12-year-old Dre Parker could've been the most popular kid in Detroit, but his mother's latest career move has landed him in China. Dre immediately falls for his classmate Mei Ying but the cultural differences make such a friendship impossible. Even worse, Dre's feelings make him an enemy of the class bully, Cheng. With no friends in a strange land, Dre has nowhere to turn but maintenance man Mr. Han, who is a kung fu master. As Han teaches Dre that kung fu is not about punches and parries, but maturity and calm, Dre realizes that facing down the bullies will be the fight of his life.",
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/b1RBy3l297N0c7PHjlz35cClWju.jpg",
     "release_date": "June 9, 2010",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Scream",
-    "description": "A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
+    "description": "Twenty-five years after a streak of brutal murders shocked the quiet town of Woodsboro, a new killer has donned the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town’s deadly past.",
     "rating": null,
-    "image": "http://image.tmdb.org/t/p/original/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
-    "release_date": "December 19, 1996",
-    "year_watched": 2023
+    "image": "http://image.tmdb.org/t/p/original/1m3W6cpgwuIyjtg5nSnPx7yFkXW.jpg",
+    "release_date": "January 11, 2022",
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "The Sixth Sense",
@@ -333,39 +374,44 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg",
     "release_date": "August 5, 1999",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
-    "title": "The 40 Year Old Virgin",
+    "title": "The 40-Year-Old Virgin",
     "description": "Andy Stitzer has a pleasant life with a nice apartment and a job stamping invoices at an electronics store. But at age 40, there's one thing Andy hasn't done, and it's really bothering his sex-obsessed male co-workers: Andy is still a virgin. Determined to help Andy get laid, the guys make it their mission to de-virginize him. But it all seems hopeless until Andy meets small business owner Trish, a single mom.",
     "rating": null,
-    "image": "http://image.tmdb.org/t/p/original/jBoRAWYOv7tBtfXbNJMAojGj0Xf.jpg",
+    "image": "http://image.tmdb.org/t/p/original/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg",
     "release_date": "August 10, 2005",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Titanic",
     "description": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
-    "release_date": "November 17, 1997",
-    "year_watched": 2023
+    "release_date": "December 17, 1997",
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "The Exorcist",
-    "description": "When a charming 12-year-old girl takes on the characteristics and voices of others, doctors say there is nothing they can do. As people begin to die, the girl's mother realizes her daughter has been possessed by the Devil. Her daughter's only possible hope lies with two priests and the ancient rite of demonic exorcism.",
+    "description": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
     "release_date": "December 25, 1973",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Psycho",
-    "description": "A young female embezzler arrives at the Bates Motel, which has terrible secrets of its own.",
+    "description": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
     "rating": null,
-    "image": "http://image.tmdb.org/t/p/original/tY0OLFUsTXdvNppTpnNc4EVYy2z.jpg",
-    "release_date": "December 3, 1998",
-    "year_watched": 2023
+    "image": "http://image.tmdb.org/t/p/original/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+    "release_date": "June 21, 1960",
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "The Blair Witch Project",
@@ -373,7 +419,8 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/9050VGrYjYrEjpOvDZVAngLbg1f.jpg",
     "release_date": "July 13, 1999",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Halloween",
@@ -381,63 +428,71 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
     "release_date": "October 23, 1978",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "The Usual Suspects",
     "description": "Held in an L.A. interrogation room, Verbal Kint attempts to convince the feds that a mythic crime lord, Keyser Soze, not only exists, but was also responsible for drawing him and his four partners into a multi-million dollar heist that ended with an explosion in San Pedro harbor – leaving few survivors. Verbal lures his interrogators with an incredible story of the crime lord's almost supernatural prowess.",
     "rating": null,
-    "image": "http://image.tmdb.org/t/p/original/rWbsxdwF9qQzpTPCLmDfVnVqTK1.jpg",
+    "image": "http://image.tmdb.org/t/p/original/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
     "release_date": "July 18, 1995",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "The Matrix",
     "description": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
     "rating": null,
-    "image": "http://image.tmdb.org/t/p/original/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+    "image": "http://image.tmdb.org/t/p/original/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
     "release_date": "March 30, 1999",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
-    "title": "Scary Movie 3",
-    "description": "In the third installment of the Scary Movie franchise, news anchorwoman Cindy Campbell has to investigate mysterious crop circles and killing video tapes, and help the President stop an alien invasion in the process.",
+    "title": "Scary Movie",
+    "description": "A familiar-looking group of teenagers find themselves being stalked by a more-than-vaguely recognizable masked killer! As the victims begin to pile up and the laughs pile on, none of your favorite scary movies escape the razor-sharp satire of this outrageously funny parody!",
     "rating": null,
-    "image": "http://image.tmdb.org/t/p/original/9hxL94pzuix9GWwba8dr4luINyo.jpg",
-    "release_date": "October 23, 2003",
-    "year_watched": 2023
+    "image": "http://image.tmdb.org/t/p/original/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg",
+    "release_date": "July 6, 2000",
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Uptown Girls",
-    "description": "Molly Gunn, the freewheeling daughter of a deceased rock legend, is forced to get a job when her manager steals her money. As nanny for precocious Ray, the oft ignored daughter of a music executive she learns what it means to be an adult while teaching Ray how to be a child.",
+    "description": "Molly Gunn, the freewheeling daughter of a deceased rock legend, is forced to get a job when her manager steals her money. As nanny to Ray - the precocious, oft-ignored daughter of a music executive - she learns what it means to be an adult while teaching Ray how to be a child.",
     "rating": null,
-    "image": "http://image.tmdb.org/t/p/original/liazMoopc2fhWq1YlfwasQcvWu.jpg",
+    "image": "http://image.tmdb.org/t/p/original/dDdrQZFp81Jus9CgCzfWmmarehe.jpg",
     "release_date": "August 14, 2003",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Primal Fear",
-    "description": "An arrogant, high-powered attorney takes on the case of a poor altar boy found running away from the scene of the grisly murder of the bishop who has taken him in. The case gets a lot more complex when the accused reveals that there may or may not have been a third person in the room.",
+    "description": "Defense attorney Martin Vail takes on jobs for money and prestige rather than any sense of the greater good. His latest case involves an altar boy, accused of brutally murdering the archbishop of Chicago. Vail finds himself up against his ex-pupil and ex-lover, but as the case progresses and the Church's dark secrets are revealed, Vail finds that what appeared a simple case takes on a darker, more dangerous aspect.",
     "rating": 10,
     "image": "http://image.tmdb.org/t/p/original/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
     "release_date": "March 5, 1996",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "WALL·E",
-    "description": "What if mankind had to leave Earth and somebody forgot to turn the last robot off? After hundreds of years doing what he was built for, WALL•E discovers a new purpose in life when he meets a sleek search robot named EVE. EVE comes to realize that WALL•E has inadvertently stumbled upon the key to the planet's future, and races back to space to report to the humans. Meanwhile, WALL•E chases EVE across the galaxy and sets into motion one of the most imaginative adventures ever brought to the big screen.",
+    "description": "After hundreds of years doing what he was built for, WALL•E— a robot designed to clean up the earth—discovers a new purpose in life when he meets a sleek search robot named EVE. EVE comes to realize that WALL•E has inadvertently stumbled upon the key to the planet's future, and races back to space to report to the humans. Meanwhile, WALL•E chases EVE across the galaxy and sets into motion one of the most imaginative adventures ever brought to the big screen.",
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
     "release_date": "June 21, 2008",
-    "year_watched": 2023
+    "year_watched": 2023,
+    "note": null
   },
   {
     "title": "Kung Fu Panda",
-    "description": "When the Valley of Peace is threatened, lazy Po the panda discovers his destiny as the \"chosen one\" and trains to become a kung fu hero, but transforming the unsleek slacker into a brave warrior won't be easy. It's up to Master Shifu and the Furious Five -- Tigress, Crane, Mantis, Viper and Monkey -- to give it a try.",
+    "description": "Chosen by prophecy but doubted by all, Po is an unlikely Dragon Warrior—a clumsy panda thrust into the world of kung fu as a deadly enemy threatens the Valley of Peace. Guided by Master Shifu and the Furious Five, Po must embrace who he is to unlock the power that no scroll can teach.",
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
     "release_date": "June 3, 2008",
-    "year_watched": 2024
+    "year_watched": 2024,
+    "note": null
   },
   {
     "title": "Stand and Deliver",
@@ -445,7 +500,8 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/A9pfzwk02iNl6i9wyk8lNcBkvc.jpg",
     "release_date": "March 10, 1988",
-    "year_watched": 2024
+    "year_watched": 2024,
+    "note": null
   },
   {
     "title": "The Stanford Prison Experiment",
@@ -453,7 +509,8 @@
     "rating": 2,
     "image": "http://image.tmdb.org/t/p/original/orMkBkPqu7szuBRdMLUB4TWKiVV.jpg",
     "release_date": "July 16, 2015",
-    "year_watched": 2024
+    "year_watched": 2024,
+    "note": null
   },
   {
     "title": "(500) Days of Summer",
@@ -461,15 +518,17 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/qXAuQ9hF30sQRsXf40OfRVl0MJZ.jpg",
     "release_date": "July 16, 2009",
-    "year_watched": 2024
+    "year_watched": 2024,
+    "note": null
   },
   {
-    "title": "Pure Imagination: The Story of 'Willy Wonka & the Chocolate Factory'",
-    "description": "Retrospective documentary on the making of the cult classic \"Willy Wonka & the Chocolate Factory.\"",
+    "title": "Willy Wonka & the Chocolate Factory",
+    "description": "When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a tour of his chocolate factory to five lucky kids, penniless Charlie Bucket seeks the golden ticket that will make him a winner.",
     "rating": null,
-    "image": "http://image.tmdb.org/t/p/original/nxzZeGmE456c5ujVrkV2B42mmD4.jpg",
-    "release_date": "November 12, 2001",
-    "year_watched": 2024
+    "image": "http://image.tmdb.org/t/p/original/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
+    "release_date": "June 28, 1971",
+    "year_watched": 2024,
+    "note": null
   },
   {
     "title": "Dear Audrey",
@@ -477,7 +536,8 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/rZ0kj3PbR0kmIYRFaHPIF2MqSi2.jpg",
     "release_date": "November 11, 2021",
-    "year_watched": 2024
+    "year_watched": 2024,
+    "note": null
   },
   {
     "title": "Girl, Interrupted",
@@ -485,7 +545,8 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/dOBdatHIVppvmRFw2z7bf9VKJr9.jpg",
     "release_date": "December 20, 1999",
-    "year_watched": 2024
+    "year_watched": 2024,
+    "note": null
   },
   {
     "title": "Super Size Me",
@@ -493,7 +554,8 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/zYkbqQaCuIHBxqBDGgnQCwJ9jIG.jpg",
     "release_date": "January 16, 2004",
-    "year_watched": 2024
+    "year_watched": 2024,
+    "note": null
   },
   {
     "title": "Super Size Me 2: Holy Chicken!",
@@ -501,15 +563,17 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/bq1RcG7UPEzyq63Gi8S59h50Z3X.jpg",
     "release_date": "September 5, 2019",
-    "year_watched": 2024
+    "year_watched": 2024,
+    "note": null
   },
   {
     "title": "Monsters, Inc.",
     "description": "Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis. When a little girl named Boo wanders into their world, it's the monsters who are scared silly, and it's up to Sulley and Mike to keep her out of sight and get her back home.",
     "rating": null,
-    "image": "http://image.tmdb.org/t/p/original/qjlbN6aK1qgeg3SspFVovT2D1Me.jpg",
+    "image": "http://image.tmdb.org/t/p/original/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
     "release_date": "October 31, 2001",
-    "year_watched": 2024
+    "year_watched": 2024,
+    "note": null
   },
   {
     "title": "A Bug's Life",
@@ -517,7 +581,8 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
     "release_date": "November 24, 1998",
-    "year_watched": 2024
+    "year_watched": 2024,
+    "note": null
   },
   {
     "title": "Fight Club",
@@ -525,23 +590,26 @@
     "rating": 10,
     "image": "http://image.tmdb.org/t/p/original/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
     "release_date": "October 14, 1999",
-    "year_watched": 2024
+    "year_watched": 2024,
+    "note": null
   },
   {
     "title": "Lolita",
     "description": "Humbert Humbert is a middle-aged British novelist who is both appalled by and attracted to the vulgarity of American culture. When he comes to stay at the boarding house run by Charlotte Haze, he soon becomes obsessed with Lolita, the woman's teenaged daughter.",
     "rating": null,
-    "image": "http://image.tmdb.org/t/p/original/6F4bV1DsCHjYCXRwIA6NZY7dcnD.jpg",
+    "image": "http://image.tmdb.org/t/p/original/9INcC14WZjCMKGE360VXmklCLdZ.jpg",
     "release_date": "September 26, 1997",
-    "year_watched": 2024
+    "year_watched": 2024,
+    "note": null
   },
   {
     "title": "Rosemary's Baby",
     "description": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
     "rating": null,
-    "image": "http://image.tmdb.org/t/p/original/nclYFGpVzfbiORO5ELVVdxzt9Vg.jpg",
+    "image": "http://image.tmdb.org/t/p/original/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg",
     "release_date": "June 11, 1968",
-    "year_watched": 2024
+    "year_watched": 2024,
+    "note": null
   },
   {
     "title": "The Platform",
@@ -549,7 +617,8 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/8gUU0Zq414RNZrvNW842UhTDwtC.jpg",
     "release_date": "December 31, 2000",
-    "year_watched": 2025
+    "year_watched": 2025,
+    "note": null
   },
   {
     "title": "Final Destination",
@@ -557,7 +626,8 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/1mXhlQMnlfvJ2frxTjZSQNnA9Vp.jpg",
     "release_date": "March 16, 2000",
-    "year_watched": 2025
+    "year_watched": 2025,
+    "note": null
   },
   {
     "title": "Society of the Snow",
@@ -565,55 +635,62 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/2e853FDVSIso600RqAMunPxiZjq.jpg",
     "release_date": "December 14, 2023",
-    "year_watched": 2025
+    "year_watched": 2025,
+    "note": null
   },
   {
-    "title": "Apollo 13: Survival",
-    "description": "Using original footage and interviews, this documentary tells the nail-biting story of Apollo 13 and the struggle to bring its astronauts safely home.",
+    "title": "Apollo 13",
+    "description": "The true story of technical troubles that scuttle the Apollo 13 lunar mission in 1970, risking the lives of astronaut Jim Lovell and his crew, with the failed journey turning into a thrilling saga of heroism. Drifting more than 200,000 miles from Earth, the astronauts work furiously with the ground crew to avert tragedy.",
     "rating": 6,
-    "image": "http://image.tmdb.org/t/p/original/9tuK9kKSB2L6rMVlNOjwiWQaWxh.jpg",
-    "release_date": "March 7, 2024",
-    "year_watched": 2025
+    "image": "http://image.tmdb.org/t/p/original/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+    "release_date": "June 29, 1995",
+    "year_watched": 2025,
+    "note": null
   },
   {
     "title": "The Truman Show",
-    "description": "Every second of every day, from the moment he was born, for the last thirty years, Truman Burbank has been the unwitting star of the longest running, most popular documentary-soap opera in history. The picture-perfect town of Seahaven that he calls home is actually a gigantic soundstage. Truman's friends and family - everyone he meets, in fact - are actors. He lives every moment under the unblinking gaze of thousands of hidden TV cameras.",
+    "description": "An insurance salesman begins to suspect that his whole life is actually some sort of reality TV show.",
     "rating": 8,
     "image": "http://image.tmdb.org/t/p/original/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
     "release_date": "June 3, 1998",
-    "year_watched": 2025
+    "year_watched": 2025,
+    "note": null
   },
   {
     "title": "Anastasia",
-    "description": "Set 16 years after the execution of the Tsar and his family by the Bolsheviks. Exiles Prince Bounine and his friends come up with a scheme to con money by claiming an imposter to be Princess Anastasia who escaped the shootings. They find a poor woman who is close to suicide and both looks the part and speaks Russian. All they need to do is train her for her role, enough to convince other members of the ex-Royal household and family also in exile.",
+    "description": "Ten years after she was separated from her family, an eighteen-year-old orphan with vague memories of the past sets out to Paris in hopes of reuniting with her grandmother. She is accompanied by two con men, who intend to pass her off as the Grand Duchess Anastasia to the Dowager Empress for a reward.",
     "rating": 5,
     "image": "https://m.media-amazon.com/images/I/41IvvGPA-3L._AC_UF894,1000_QL80_.jpg",
-    "release_date": "July 11, 1953",
-    "year_watched": 2025
+    "release_date": "November 19, 1997",
+    "year_watched": 2025,
+    "note": null
   },
   {
     "title": "Pocahontas",
     "description": "Pocahontas, daughter of a Native American tribe chief, falls in love with an English soldier as colonists invade 17th century Virginia.",
     "rating": 9,
     "image": "http://image.tmdb.org/t/p/original/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg",
-    "release_date": "June 13, 1995",
-    "year_watched": 2025
+    "release_date": "June 15, 1995",
+    "year_watched": 2025,
+    "note": null
   },
   {
     "title": "Heathers",
     "description": "A girl who halfheartedly tries to be part of the \"in crowd\" of her school meets a rebel who teaches her a more devious way to play social politics: by killing the popular kids.",
     "rating": 9,
     "image": "http://image.tmdb.org/t/p/original/dGbVfM4WlM7uvIbyRehfPZUIgp2.jpg",
-    "release_date": "September 30, 1988",
-    "year_watched": 2025
+    "release_date": "March 30, 1989",
+    "year_watched": 2025,
+    "note": null
   },
   {
     "title": "Good Will Hunting",
-    "description": "Headstrong yet aimless, Will Hunting has a genius-level IQ but chooses to work as a janitor at MIT. When he secretly solves highly difficult graduate-level math problems, his talents are discovered by Professor Gerald Lambeau, who decides to help the misguided youth reach his potential. When Will is arrested for attacking a police officer, Professor Lambeau makes a deal to get leniency for him if he gets court-ordered therapy. Eventually, therapist Dr. Sean Maguire helps Will confront the demons that are holding him back.",
+    "description": "Will Hunting is a headstrong, working-class genius who is failing the lessons of life. After one too many run-ins with the law, Will's last chance is a psychology professor, who might be the only man who can reach him.",
     "rating": 10,
     "image": "http://image.tmdb.org/t/p/original/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
     "release_date": "December 4, 1997",
-    "year_watched": 2025
+    "year_watched": 2025,
+    "note": null
   },
   {
     "title": "Project X",
@@ -621,7 +698,8 @@
     "rating": 8,
     "image": "http://image.tmdb.org/t/p/original/8FHBi4dEtUOwC0ab8eLdWgUToNO.jpg",
     "release_date": "December 31, 2002",
-    "year_watched": 2025
+    "year_watched": 2025,
+    "note": null
   },
   {
     "title": "The Departed",
@@ -629,7 +707,8 @@
     "rating": 8,
     "image": "http://image.tmdb.org/t/p/original/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
     "release_date": "October 3, 2006",
-    "year_watched": 2025
+    "year_watched": 2025,
+    "note": null
   },
   {
     "title": "The Shawshank Redemption",
@@ -637,7 +716,8 @@
     "rating": 10,
     "image": "http://image.tmdb.org/t/p/original/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
     "release_date": "September 22, 1994",
-    "year_watched": 2025
+    "year_watched": 2025,
+    "note": null
   },
   {
     "title": "Chicago",
@@ -645,7 +725,8 @@
     "rating": 8,
     "image": "http://image.tmdb.org/t/p/original/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg",
     "release_date": "December 9, 2002",
-    "year_watched": 2025
+    "year_watched": 2025,
+    "note": null
   },
   {
     "title": "Spirit: Stallion of the Cimarron",
@@ -653,7 +734,8 @@
     "rating": 6,
     "image": "http://image.tmdb.org/t/p/original/cUgYrz4twiJ3QgVGpRfey984NIB.jpg",
     "release_date": "May 23, 2002",
-    "year_watched": 2025
+    "year_watched": 2025,
+    "note": null
   },
   {
     "title": "Dinosaur",
@@ -661,6 +743,412 @@
     "rating": null,
     "image": "http://image.tmdb.org/t/p/original/rSje3FS7ycJSglowlngjsvDt7vO.jpg",
     "release_date": "May 18, 2000",
-    "year_watched": 2025
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Planet of the Apes",
+    "description": "Astronaut Taylor crash lands on a distant planet ruled by apes who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.",
+    "rating": 10,
+    "image": "http://image.tmdb.org/t/p/original/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+    "release_date": "February 6, 1968",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Under the Same Moon",
+    "description": "Tells the parallel stories of nine-year-old Carlitos and his mother, Rosario. In the hopes of providing a better life for her son, Rosario works illegally in the U.S. while her mother cares for Carlitos back in Mexico.",
+    "rating": 9,
+    "image": "http://image.tmdb.org/t/p/original/wx9DwdcgvLhoQJP3AOXpvMISgtM.jpg",
+    "release_date": "July 26, 2007",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Sin Nombre",
+    "description": "Sayra, a Honduran teen, hungers for a better life. Her chance for one comes when she is reunited with her long-estranged father, who intends to emigrate to Mexico and then enter the United States. Sayra's life collides with a pair of Mexican gangmembers who have boarded the same American-bound train.",
+    "rating": 10,
+    "image": "http://image.tmdb.org/t/p/original/dubZwiGWp6TwYNGYtyGEUC7XAin.jpg",
+    "release_date": "March 19, 2009",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "description": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+    "rating": 6,
+    "image": "http://image.tmdb.org/t/p/original/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+    "release_date": "March 18, 2004",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "A Better Life",
+    "description": "A gardener in East L.A. struggles to keep his son away from gangs and immigration agents while traveling across town to perform landscaping work for the city's wealthy landowners.",
+    "rating": 10,
+    "image": "http://image.tmdb.org/t/p/original/eY9wOw5PjrRXUTLgNmqWb60it10.jpg",
+    "release_date": "June 23, 2011",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Delivery Man",
+    "description": "An affable underachiever finds out he's fathered 533 children through anonymous donations to a fertility clinic 20 years ago. Now he must decide whether or not to come forward when 142 of them file a lawsuit to reveal his identity.",
+    "rating": 8,
+    "image": "http://image.tmdb.org/t/p/original/huXHYDclKT4RM1OvS3O7SXYRAU0.jpg",
+    "release_date": "October 9, 2013",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Remember Me",
+    "description": "Still reeling from a heartbreaking family event and his parents' subsequent divorce, Tyler Hawkins discovers a fresh lease on life when he meets Ally Craig, a gregarious beauty who witnessed her mother's death. But as the couple draws closer, the fallout from their separate tragedies jeopardizes their love.",
+    "rating": 7,
+    "image": "http://image.tmdb.org/t/p/original/j7umuMiLCHvWT7wYhFKJOTFSokF.jpg",
+    "release_date": "March 10, 2010",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Center Stage",
+    "description": "A group of 12 teenagers from various backgrounds enroll at the American Ballet Academy in New York to make it as ballet dancers and each one deals with the problems and stress of training and getting ahead in the world of dance.",
+    "rating": 9,
+    "image": "http://image.tmdb.org/t/p/original/95Et0t08Nv6S8FD593HpXyvcRt8.jpg",
+    "release_date": "May 11, 2000",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Stuart Little",
+    "description": "When the Littles adopt Stuart, the mouse, George is initially unwelcoming to his new brother, and the family cat, Snowbell, is even less enthusiastic. Stuart resolves to face these difficulties with as much pluck and courage as he can muster.",
+    "rating": 8,
+    "image": "http://image.tmdb.org/t/p/original/jnx9DbsR3it6yEPRwNS9KA6ITXn.jpg",
+    "release_date": "December 16, 1999",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Vertigo",
+    "description": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+    "rating": 11,
+    "image": "http://image.tmdb.org/t/p/original/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
+    "release_date": "May 8, 1958",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "The Breakfast Club",
+    "description": "Five high school students from different walks of life endure a Saturday detention under a power-hungry principal. The disparate group includes rebel John, princess Claire, outcast Allison, brainy Brian and Andrew, the jock. Each has a chance to tell his or her story, making the others see them a little differently -- and when the day ends, they question whether school will ever be the same.",
+    "rating": 2,
+    "image": "http://image.tmdb.org/t/p/original/wM9ErA8UVdcce5P4oefQinN8VVV.jpg",
+    "release_date": "February 14, 1985",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Not Another Teen Movie",
+    "description": "On a bet, a gridiron hero at John Hughes High School sets out to turn a bespectacled plain Jane into a beautiful and popular prom queen in this outrageous send-up of the teen movies of the 1980s and '90s.",
+    "rating": 10,
+    "image": "http://image.tmdb.org/t/p/original/9ZaGxvj1mqdKVLpSloq4mzS7SK6.jpg",
+    "release_date": "December 6, 2001",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Perfect Blue",
+    "description": "Rising pop star Mima quits singing to pursue a career as an actress. After she takes up a role on a popular detective show, her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima's reality and fantasy meld into a frenzied paranoia.",
+    "rating": 10,
+    "image": "http://image.tmdb.org/t/p/original/925SaqJIfRCeIt11BzvqPVVg263.jpg",
+    "release_date": "February 27, 1998",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Ponyo",
+    "description": "When Sosuke, a young boy who lives on a clifftop overlooking the sea, rescues a stranded goldfish named Ponyo, he discovers more than he bargained for. Ponyo is a curious, energetic young creature who yearns to be human, but even as she causes chaos around the house, her father, a powerful sorcerer, schemes to return Ponyo to the sea.",
+    "rating": 10,
+    "image": "http://image.tmdb.org/t/p/original/yp8vEZflGynlEylxEesbYasc06i.jpg",
+    "release_date": "July 18, 2008",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Freedom Writers",
+    "description": "A young teacher inspires her class of at-risk students to learn tolerance, apply themselves, and pursue education beyond high school.",
+    "rating": 10,
+    "image": "http://image.tmdb.org/t/p/original/81AdeUQT99N0xPg3j6RVh0YGOTk.jpg",
+    "release_date": "January 4, 2007",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Stand by Me",
+    "description": "After learning that a boy their age has been accidentally killed near their rural homes, four boys decide to go see the body. Gordie, Vern, Chris, and Teddy encounter a mean junk man and a marsh full of leeches, but they also learn more about one another and their very different home lives. Just a lark at first, the boys' adventure evolves into a defining event in their lives.",
+    "rating": 10,
+    "image": "http://image.tmdb.org/t/p/original/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg",
+    "release_date": "August 7, 1986",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "description": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+    "rating": 10,
+    "image": "http://image.tmdb.org/t/p/original/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+    "release_date": "February 13, 1991",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Speak",
+    "description": "Freshman high-school student Melinda has refused to speak ever since she called the cops on a popular summer party. With her old friends snubbing her for being a rat, and her parents too busy to notice her troubles, she folds into herself, trying to hide her secret: that star senior Andy raped her at the party. But Melinda does manage to find solace in her art class headed by Mr. Freeman.",
+    "rating": 10,
+    "image": "http://image.tmdb.org/t/p/original/oRjQJG2PziTl2bUvzUCFS16ncfj.jpg",
+    "release_date": "January 19, 2004",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "I, Tonya",
+    "description": "Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the sport is thrown into doubt when her ex-husband intervenes.",
+    "rating": 8,
+    "image": "http://image.tmdb.org/t/p/original/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg",
+    "release_date": "December 6, 2017",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Dear Zachary: A Letter to a Son About His Father",
+    "description": "In 2001, Andrew Bagby, a medical resident, is murdered not long after breaking up with his girlfriend. Soon after, when she announces she's pregnant, one of Andrew's many close friends, Kurt Kuenne, begins this film, a gift to the child.",
+    "rating": 10,
+    "image": "http://image.tmdb.org/t/p/original/bVJCQfIfNC01CYOVkvBOtrY1cxy.jpg",
+    "release_date": "October 30, 2008",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Crazy Rich Asians",
+    "description": "An American-born Chinese economics professor accompanies her boyfriend to Singapore for his best friend's wedding, only to get thrust into the lives of Asia's rich and famous.",
+    "rating": 8,
+    "image": "http://image.tmdb.org/t/p/original/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg",
+    "release_date": "August 14, 2018",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Which Way Home",
+    "description": "Which Way Home is a 2009 documentary film that follows several unaccompanied children from Central America as they journey through Mexico toward the United States, fleeing poverty, violence, and family separation. The film documents their experiences, dangers, and resilience while examining migration, borders, and human rights from the perspective of the children themselves.",
+    "rating": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/68/Which_Way_Home.jpg",
+    "release_date": "2009",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "The Pursuit of Happyness",
+    "description": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.",
+    "rating": 9,
+    "image": "http://image.tmdb.org/t/p/original/lBYOKAMcxIvuk9s9hMuecB9dPBV.jpg",
+    "release_date": "December 13, 2006",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "I Am Sam",
+    "description": "Sam, a neurodivergent man, has a daughter with a homeless woman who abandons them when they leave the hospital, leaving Sam to raise Lucy on his own. But as Lucy grows up, Sam's limitations as a parent start to become a problem and the authorities take her away. Sam convinces high-priced lawyer Rita to take his case pro bono and in turn teaches her the value of love and family.",
+    "rating": 10,
+    "image": "http://image.tmdb.org/t/p/original/3MUXRSyx9gnA2lLSSTGLN8cQQ42.jpg",
+    "release_date": "December 27, 2001",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Spider-Man: Across the Spider-Verse",
+    "description": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+    "rating": 10,
+    "image": "http://image.tmdb.org/t/p/original/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+    "release_date": "May 30, 2023",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Cube",
+    "description": "A group of strangers find themselves trapped in a maze-like prison. It soon becomes clear that each of them possesses the peculiar skills necessary to escape, if they don't wind up dead first.",
+    "rating": 6,
+    "image": "http://image.tmdb.org/t/p/original/x4BTjxdrOKC27FcSkBh8KPEgnum.jpg",
+    "release_date": "July 10, 1998",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Toy Story",
+    "description": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+    "rating": 8,
+    "image": "http://image.tmdb.org/t/p/original/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+    "release_date": "November 21, 1995",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Star Wars: Episode IV - A New Hope",
+    "description": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+    "rating": 9,
+    "image": "http://image.tmdb.org/t/p/original/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+    "release_date": "May 24, 1977",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Star Wars: Episode I - The Phantom Menace",
+    "description": "Anakin Skywalker, a young slave strong with the Force, is discovered on Tatooine. Meanwhile, the evil Sith have returned, enacting their plot for revenge against the Jedi.",
+    "rating": 6,
+    "image": "http://image.tmdb.org/t/p/original/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg",
+    "release_date": "May 18, 1999",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Star Wars: Episode III - Revenge of the Sith",
+    "description": "When the sinister Sith unveil a thousand-year-old plot to rule the galaxy, the Republic crumbles and from its ashes rises the evil Galactic Empire. Jedi hero Anakin Skywalker must choose a side.",
+    "rating": 10,
+    "image": "http://image.tmdb.org/t/p/original/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
+    "release_date": "May 16, 2005",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Toy Story 2",
+    "description": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+    "rating": 10,
+    "image": "http://image.tmdb.org/t/p/original/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
+    "release_date": "October 29, 1999",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Toy Story 3",
+    "description": "Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.",
+    "rating": 10,
+    "image": "http://image.tmdb.org/t/p/original/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+    "release_date": "June 15, 2010",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Toy Story 4",
+    "description": "Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that's Andy or Bonnie. But when Bonnie adds a reluctant new toy called \"Forky\" to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.",
+    "rating": 8,
+    "image": "http://image.tmdb.org/t/p/original/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+    "release_date": "June 18, 2019",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Manhattan",
+    "description": "Manhattan is a 1979 American romantic comedy-drama directed by Woody Allen and written by Allen and Marshall Brickman. The film follows a twice-divorced 42-year-old comedy writer in New York City as he navigates complicated romantic relationships, including dating a 17-year-old girl while falling in love with his best friend’s mistress. Starring Woody Allen, Diane Keaton, Mariel Hemingway, and Meryl Streep, the film is noted for its black-and-white cinematography and its portrayal of relationships, art, and urban life.",
+    "rating": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f3/Manhattan-poster01.jpg",
+    "release_date": "April 25, 1979",
+    "year_watched": 2025,
+    "note": "disgusting movie"
+  },
+  {
+    "title": "Raging Bull",
+    "description": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+    "rating": 8,
+    "image": "http://image.tmdb.org/t/p/original/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+    "release_date": "November 13, 1980",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Red Dragon",
+    "description": "Former FBI Agent Will Graham, who was once almost killed by the savage Hannibal 'The Cannibal' Lecter, now has no choice but to face him again, as it seems Lecter is the only one who can help Graham track down a new serial killer.",
+    "rating": 10,
+    "image": "http://image.tmdb.org/t/p/original/ou9ZKA2cms02b7CdCdVqGkKu0O0.jpg",
+    "release_date": "October 1, 2002",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Shadow of a Doubt",
+    "description": "Charlie is a young woman who is thrilled that her favorite Uncle Charlie is coming home for good. But she soon discovers that her namesake, a \"Wall Street financier,\" has a deep, dark secret. And knowledge of that secret by anyone can prove to be deadly.",
+    "rating": 8.5,
+    "image": "http://image.tmdb.org/t/p/original/ikRAw4l9r7fBnRQW1X2gUFUTrZK.jpg",
+    "release_date": "April 26, 1991",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Slumdog Millionaire",
+    "description": "A teenager reflects on his life after being accused of cheating on the Indian version of \"Who Wants to be a Millionaire?\".",
+    "rating": 10,
+    "image": "http://image.tmdb.org/t/p/original/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg",
+    "release_date": "November 11, 2008",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Abducted in Plain Sight",
+    "description": "A family falls prey to the manipulative charms of a neighbor, who abducts their adolescent daughter. Twice.",
+    "rating": null,
+    "image": "http://image.tmdb.org/t/p/original/licfKJMCnGFgFDATHeUZuy047RB.jpg",
+    "release_date": "May 25, 2017",
+    "year_watched": 2025,
+    "note": "very stupid parents"
+  },
+  {
+    "title": "Annabelle: Creation",
+    "description": "Several years after the tragic death of their little girl, a doll maker and his wife welcome a nun and several girls from a shuttered orphanage into their home, soon becoming the target of the doll maker's possessed creation—Annabelle.",
+    "rating": 8.5,
+    "image": "http://image.tmdb.org/t/p/original/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg",
+    "release_date": "August 2, 2017",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Annabelle",
+    "description": "A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists.",
+    "rating": 9,
+    "image": "http://image.tmdb.org/t/p/original/yLsuU2P2SpDYFwtZQ7dtfVAf6TE.jpg",
+    "release_date": "September 30, 2014",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Annabelle Comes Home",
+    "description": "Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorraine Warren bring the possessed doll to the locked artifacts room in their home, placing her “safely” behind sacred glass and enlisting a priest’s holy blessing. But an unholy night of horror awaits as Annabelle awakens the evil spirits in the room, who all set their sights on a new target—the Warrens' ten-year-old daughter, Judy, and her friends.",
+    "rating": 9,
+    "image": "http://image.tmdb.org/t/p/original/qWsHMrbg9DsBY3bCMk9jyYCRVRs.jpg",
+    "release_date": "June 25, 2019",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Fargo",
+    "description": "Jerry, a small-town Minnesota car salesman is bursting at the seams with debt... but he's got a plan. He's going to hire two thugs to kidnap his wife in a scheme to collect a hefty ransom from his wealthy father-in-law. It's going to be a snap and nobody's going to get hurt... until people start dying. Enter Police Chief Marge, a coffee-drinking, parka-wearing - and extremely pregnant - investigator who'll stop at nothing to get her man. And if you think her small-time investigative skills will give the crooks a run for their ransom... you betcha!",
+    "rating": 9,
+    "image": "http://image.tmdb.org/t/p/original/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+    "release_date": "March 7, 1996",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "Inception",
+    "description": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "rating": 10,
+    "image": "http://image.tmdb.org/t/p/original/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+    "release_date": "July 14, 2010",
+    "year_watched": 2025,
+    "note": null
+  },
+  {
+    "title": "As Above, So Below",
+    "description": "When a team of explorers ventures into the uncharted maze of bones that lies beneath the streets of Paris, they embark on a journey into madness and terror.",
+    "rating": 9,
+    "image": "http://image.tmdb.org/t/p/original/oJZSajKLJkoTOzSZQN2ZwRnPwHZ.jpg",
+    "release_date": "August 13, 2014",
+    "year_watched": 2026,
+    "note": "scare wise 10/10"
   }
 ]
